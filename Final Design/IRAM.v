@@ -1,5 +1,4 @@
- //Author : Ashwin de Silva
-//Last Updated : 2018 Mar 30
+﻿ //Last Updated : 2018 Mar 30
 
 //This module defines the IRAM (Read Only Memory) of the processor 
 

@@ -1,4 +1,3 @@
-//Author : Ashwin de Silva
 //Last Updated : 2018 Apr 19
 
 //This module contains the 2 to 1 multiplexer module for 16bit

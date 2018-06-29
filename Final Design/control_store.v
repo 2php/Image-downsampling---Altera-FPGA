@@ -1,4 +1,3 @@
-//Author : Ashwin de Silva
 //Last Updated : 2018 Mar 30
 
 //This module defines the control store of the processor

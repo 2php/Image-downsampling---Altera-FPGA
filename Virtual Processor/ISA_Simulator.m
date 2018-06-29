@@ -1,6 +1,5 @@
 %Intruction Set Architecture Simulator
 
-%Author : Ashwin de Silva
 %Last Updated : 2018 Mar 2
 
 clear all;

@@ -1,4 +1,3 @@
-#Author : Ashwin e Silva
 #Last upate : 24th May 2018
 
 #define the instructions

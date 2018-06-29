@@ -1,4 +1,3 @@
-//Author : Ashwin de Silva
 //Last Updated : 2018 Mar 29
 
 //This module define the B bus write enable 4 to 16 decoder
